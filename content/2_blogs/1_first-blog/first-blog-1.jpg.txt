@@ -1,0 +1,9 @@
+Alt: First Blog Post
+
+----
+
+Template: gallery-image
+
+----
+
+Uuid: W1vYorvWCAuJ8bWV

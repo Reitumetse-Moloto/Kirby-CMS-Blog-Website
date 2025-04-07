@@ -1,0 +1,28 @@
+title: Blogs
+
+sections:
+  drafts:
+    headline: Drafts
+    type: pages
+    layout: cards
+    template: blog
+    text: "{{page.title}} by {{ page.author}}"
+    info: "{{page.date}}"
+    status: drafts
+    image:
+      ratio: 3/2
+      cover: true
+
+  published:
+    headline: Published Blogs
+    type: pages
+    layout: cards
+    template: blog
+    text: "{{page.title}} by {{ page.author}}"
+    info: "{{page.date}}"
+    status: published
+    image:
+      ratio: 3/2
+      cover: true
+
+

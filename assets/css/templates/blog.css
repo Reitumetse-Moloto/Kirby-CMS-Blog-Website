@@ -1,0 +1,51 @@
+.blog-info{
+  line-height: 1.5rem;
+  width: 50%;
+  padding-left: 450px;
+}
+
+.blog-text{
+  margin-bottom: 1.5rem;
+}
+
+.blog-info dt{
+  font-weight: bold;
+}
+
+.blog-gallery ul{
+  list-style: none;
+  text-align: center;
+}
+
+.blog-title{
+  text-align: center;
+}
+
+dl{
+  display: inline-flex;
+  gap: 20px;
+}
+
+.blog-gallery img{
+  height: 500px;
+  width: 1000px;
+
+}
+
+.blog-paragraphs{
+  margin-bottom: 20px;
+  line-height: 1.5;
+  justify-content: space-between;
+
+}
+
+.button{
+  background-color: #edd6e7;
+  border: none;
+  float: right;
+}
+
+.button:hover{
+  color: white;
+  cursor: pointer;
+}

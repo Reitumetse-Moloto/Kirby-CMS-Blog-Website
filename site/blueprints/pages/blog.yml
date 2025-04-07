@@ -1,0 +1,25 @@
+title: Blog
+
+sections:
+    gallery:
+      type: files
+      layout: cards
+      template: gallery-image
+      image:
+       ratio: 1/1
+    info:
+      type: fields
+      fields:
+        text:
+          label: Blog intoduction
+          type: textarea
+          required: true
+        blog:
+          label: Blog content
+          type: textarea
+          required: true
+        author:
+         type: text
+         width: 1/2
+         icon: user
+         required: true

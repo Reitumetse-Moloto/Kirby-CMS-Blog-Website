@@ -1,0 +1,5 @@
+title: Gallery image
+
+fields:
+  alt:
+    type: text
