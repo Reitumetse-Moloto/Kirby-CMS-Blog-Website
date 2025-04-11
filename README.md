@@ -36,6 +36,6 @@ If you are familiar with Git, you can clone Kirby's Plainkit repository from Git
 [getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
 # plainkit-main
 
-#Blog Website Preview
+## Blog Website Preview
 <img width="1722" alt="Screenshot 2025-04-11 at 08 36 07" src="https://github.com/user-attachments/assets/b981d8fa-b7da-4776-a09e-a57759387885" />
 
